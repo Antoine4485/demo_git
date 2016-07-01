@@ -4,3 +4,5 @@ une modif
 une autre modif
 
 une modif en ligne
+
+et maintenant une modif depuis la machine locale
